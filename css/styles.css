@@ -71,7 +71,7 @@ form h2 {
   background: #512DA8; }
 
 .carousel-item {
-  color: black;
+  color: floralwhite;
   height: 250px; }
 
 .carousel-item img {
@@ -95,3 +95,6 @@ form h2 {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+.close {
+  color: floralwhite; }
